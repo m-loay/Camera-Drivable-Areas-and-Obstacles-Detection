@@ -1,0 +1,63 @@
+# IDE Files #
+###################
+
+.pydevproject
+.cproject
+.project
+.vscode
+
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.bin
+*.pyc
+*.xml
+
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Generated files#
+######################
+Debug/
+debug/
+build/
+*_LLD/
+Gen*/
+local_*
+_*
+_generated
+*.bak
+*.
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
